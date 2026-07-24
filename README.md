@@ -5,6 +5,6 @@
 
   # jsparentlab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[jsparentlab.github.io/parentlab](https://jsparentlab.github.io/parentlab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

@@ -2,7 +2,7 @@
 name: Nathan Liang
 image: images/nliang.jpg
 role: technician
-group: technician
+description: Research Technician
 links:
   github: natliang
 ---

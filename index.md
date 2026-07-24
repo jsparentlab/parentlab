@@ -3,7 +3,7 @@
 
 # jsparentlab's Website
 
-An engaging 1-3 sentence description of your lab.
+Our group studies the reproductive development of different plants and how it affects agriculture. We have a specific interest in epigenetic control of gamete formation, fertility and seed development.
 
 {% include section.html %}
 

@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located at the Central Experimental Farm in Ottawa, part of Agriculture and Agri-Food Canada's Ottawa Research and Development Centre. 
-Jean-Sébastien is also affiliated with Carleton University's Department of Biology.
+Our lab is located at the Central Experimental Farm in Ottawa, part of Agriculture and Agri-Food Canada's [Ottawa Research and Development Centre](https://agriculture.canada.ca/en/science/agriculture-and-agri-food-research-centres/ottawa-research-and-development-centre). 
+Jean-Sébastien is also affiliated with Carleton University's [Department of Biology](https://carleton.ca/biology/people/jean-sebastien-parent/).
 
 {%
   include button.html
@@ -29,8 +29,8 @@ Jean-Sébastien is also affiliated with Carleton University's Department of Biol
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/kwneatby.png"
+  caption="The KW Neatby building at the Central Experimental Farm"
 %}
 
 {% endcapture %}

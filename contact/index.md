@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is located at the Central Experimental Farm in Ottawa, part of Agriculture and Agri-Food Canada's Ottawa Research and Development Centre. 
+Jean-Sébastien is also affiliated with Carleton University's Department of Biology.
 
 {%
   include button.html

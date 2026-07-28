@@ -1,7 +1,7 @@
 ---
 ---
 
-# jsparentlab's Website
+# Jean-Sébastien Parent's Laboratory at the Ottawa Research and Development Centre
 
 Our group studies the reproductive development of different plants and how it affects agriculture. We have a specific interest in epigenetic control of gamete formation, fertility and seed development.
 

@@ -3,6 +3,8 @@ name: Nathan Liang
 image: images/nliang.jpg
 role: technician
 description: Research Technician
+aliases:
+  - N Liang
 links:
   github: natliang
 ---

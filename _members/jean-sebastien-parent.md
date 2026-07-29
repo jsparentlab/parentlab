@@ -4,7 +4,6 @@ image: images/jsparent.jpg
 role: principal-investigator
 affiliation: Agriculture and Agri-Food Canada
 aliases:
-  - JS
   - JS Parent
 links:
   home-page: https://carleton.ca/biology/people/jean-sebastien-parent/

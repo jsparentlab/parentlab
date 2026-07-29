@@ -13,7 +13,7 @@ These are the members of the lab.
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'technician'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'technician'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

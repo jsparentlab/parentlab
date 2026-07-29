@@ -21,6 +21,7 @@
   date: '2023-05-30'
   link: https://doi.org/hcc3gk
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gad.343871.120
@@ -35,6 +36,7 @@
   date: '2021-05-20'
   link: https://doi.org/gj4v32
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gr.259044.119
@@ -53,6 +55,7 @@
   date: '2020-04-01'
   link: https://doi.org/hcc3gm
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.01.24.919167
@@ -71,6 +74,7 @@
   date: '2020-01-25'
   link: https://doi.org/gkvzm7
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/plants8090354
@@ -86,6 +90,7 @@
   date: '2019-09-19'
   link: https://doi.org/hcc3gn
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41588-017-0032-5
@@ -103,6 +108,7 @@
   date: '2018-01-15'
   link: https://doi.org/gc2knn
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/tpj.12720
@@ -117,6 +123,7 @@
   date: '2014-12-03'
   link: https://doi.org/f6wmzw
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1104/pp.15.00585
@@ -138,6 +145,7 @@
   date: '2015-08-18'
   link: https://doi.org/f72kz4
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkv753
@@ -156,6 +164,7 @@
   date: '2015-07-24'
   link: https://doi.org/f73j4f
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1107/S1744309113028698
@@ -171,6 +180,7 @@
   date: '2013-10-26'
   link: https://doi.org/qdf
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkr740
@@ -187,6 +197,7 @@
   date: '2011-09-10'
   link: https://doi.org/dkt2m4
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fpls.2012.00179
@@ -199,12 +210,14 @@
   date: '2012-01-01'
   link: https://doi.org/hcc3gp
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Divergent roles for the two PolI-like organelle DNA polymerases of Arabidopsis.
   publisher: Plant physiology
   date: '2019-06-28'
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Crystal structures of DNA-Whirly complexes and their role in Arabidopsis
@@ -212,6 +225,7 @@
   publisher: The Plant cell
   date: '2019-06-28'
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:9781845935740
@@ -221,6 +235,7 @@
   date: '2009-01-01'
   link: ''
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Whirly proteins maintain plastid genome stability in Arabidopsis.
@@ -228,12 +243,14 @@
     of America
   date: '2019-06-28'
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Overexpression of mtDNA-associated AtWhy2 compromises mitochondrial function.
   publisher: BMC plant biology
   date: '2019-06-28'
   orcid: 0000-0001-7859-7415
+  jean-sebastien-parent: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128

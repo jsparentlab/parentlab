@@ -9,6 +9,8 @@ nav:
 
 Check out our really cool publications.
 
+{% comment %} 
+
 {% include section.html %}
 
 ## Highlighted
@@ -16,6 +18,8 @@ Check out our really cool publications.
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+
+{% endcomment %} 
 
 ## All
 

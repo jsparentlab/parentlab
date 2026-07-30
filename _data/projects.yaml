@@ -18,30 +18,19 @@
   tags:
     - Wheat
 
-- title: Uncovering the molecular mechanism behind naked oat.
-  subtitle: Or hulless if you prefer.
+- title: Studying Brassica.
+  subtitle: How many canolas can we make.
+  image: images/photo.jpg
+  description: Trying to find out how to make canola all over again using epigenetics.
+  tags:
+    - Brassica
+
+- title: Gene-editing in Camelina sativa.
+  subtitle: True edits in false flax.
   image: images/photo.jpg
   link: https://github.com/
-  description: Oat comes in two flavours covered and naked. We'd like to figure out how one becomes the other.
-  repo: greenelab/lab-website-template
+  description: Camelina is a crop with a diversity of uses. Can we edit its genes to improve its various qualities.
   tags:
-    - Oats
+    - Camelina
 
 
-- title: Uncovering the molecular mechanism behind naked oat.
-  subtitle: Or hulless if you prefer.
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Oat comes in two flavours covered and naked. We'd like to figure out how one becomes the other.
-  repo: greenelab/lab-website-template
-  tags:
-    - Oats
-
-- title: Uncovering the molecular mechanism behind naked oat.
-  subtitle: Or hulless if you prefer.
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Oat comes in two flavours covered and naked. We'd like to figure out how one becomes the other.
-  repo: greenelab/lab-website-template
-  tags:
-    - Oats

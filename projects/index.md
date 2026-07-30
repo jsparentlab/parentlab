@@ -9,11 +9,15 @@ nav:
 
 Here are our projects.
 
+{% comment %}
+
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
+
+{% endcomment %}
 
 ## Featured
 

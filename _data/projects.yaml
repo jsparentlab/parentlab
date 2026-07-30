@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Oat comes in two flavours: covered and naked. We'd like to figure out how one becomes the other.
+  description: "Oat comes in two flavours: covered and naked. We'd like to figure out how one becomes the other."
   repo: greenelab/lab-website-template
   tags:
     - Oats
@@ -22,7 +22,7 @@
   subtitle: Or hulless if you prefer.
   image: images/photo.jpg
   link: https://github.com/
-  description: Oat comes in two flavours: covered and naked. We'd like to figure out how one becomes the other.
+  description: Oat comes in two flavours covered and naked. We'd like to figure out how one becomes the other.
   repo: greenelab/lab-website-template
   tags:
     - Oats
@@ -32,7 +32,7 @@
   subtitle: Or hulless if you prefer.
   image: images/photo.jpg
   link: https://github.com/
-  description: Oat comes in two flavours: covered and naked. We'd like to figure out how one becomes the other.
+  description: Oat comes in two flavours covered and naked. We'd like to figure out how one becomes the other.
   repo: greenelab/lab-website-template
   tags:
     - Oats
@@ -41,7 +41,7 @@
   subtitle: Or hulless if you prefer.
   image: images/photo.jpg
   link: https://github.com/
-  description: Oat comes in two flavours: covered and naked. We'd like to figure out how one becomes the other.
+  description: Oat comes in two flavours covered and naked. We'd like to figure out how one becomes the other.
   repo: greenelab/lab-website-template
   tags:
     - Oats

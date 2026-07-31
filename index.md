@@ -26,7 +26,7 @@ Check out our publications.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/camelinaflats.jpg"
   link="research"
   title="Our Research"
   text=text

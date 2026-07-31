@@ -1,6 +1,6 @@
 ---
 name: Bonnie Rule
-image: images/brule.jpg
+image: images/team/brule.jpg
 role: msc
 description: MSc Student
 aliases:

@@ -17,7 +17,7 @@ Jean-Sébastien is also affiliated with Carleton University's [Department of Bio
   link="jean-sebastien.parent@agr.gc.ca"
 %}
 {%
-  include button.html
+  include button_newtab.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/G8D3mkkHnywzvCA67"

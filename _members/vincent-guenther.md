@@ -1,6 +1,6 @@
 ---
 name: Vincent Guenther
-image: images/vguenther.jpg
+image: images/team/vguenther.jpg
 role: undergrad
 aliases:
   - V Guenther

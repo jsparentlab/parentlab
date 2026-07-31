@@ -49,7 +49,7 @@ Meet our team.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_Photo_summer2026.jpg"
   link="team"
   title="Our Team"
   flip=true

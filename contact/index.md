@@ -45,10 +45,9 @@ Jean-Sébastien is also affiliated with Carleton University's [Department of Bio
 
 {% endcapture %}
 
-{% comment %}
-
 {% include cols.html col1=col1 col2=col2 %}
 
+{% comment %}
 {% include section.html dark=true %}
 
 {% capture col1 %}

@@ -1,6 +1,6 @@
 ---
 name: Laureen Blahut-Beatty
-image: images/lbb.jpg
+image: images/team/lbb.jpg
 role: technician
 description: Research Technician
 aliases:

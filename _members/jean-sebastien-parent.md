@@ -1,6 +1,6 @@
 ---
 name: Jean-Sébastien Parent
-image: images/team/jsparent.jpg
+image: images/team/jsparent1.jpg
 role: principal-investigator
 affiliation: Agriculture and Agri-Food Canada
 aliases:

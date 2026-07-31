@@ -1,3 +1,9 @@
+---
+title: Studying Oats
+---
+
+## Engineering Genetic Diversity to Optimize Oat Floral Architecture
+
 Cultivated oat exhibits two major floral architectures: covered (determinate and hulled) and naked (indeterminate and hulless). 
 These contrasting forms encompass multiple traits—such as floret number per spikelet and hull thickness—that behave as a single unit and map to a single genomic region known as Naked1 (N1). 
 Our research aims to unravel the genetic and developmental basis of these traits by dissecting the underlying programs that govern floral architecture. 

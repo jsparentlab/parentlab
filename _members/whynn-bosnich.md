@@ -1,6 +1,6 @@
 ---
 name: Whynn Bosnich
-image: images/wbosnich.jpg
+image: images/team/wbosnich.jpg
 role: technician
 description: Research Technician
 aliases:

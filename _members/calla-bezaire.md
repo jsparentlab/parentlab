@@ -1,6 +1,6 @@
 ---
 name: Calla Bezaire
-image: images/cbezaire.jpg
+image: images/team/cbezaire.jpg
 role: undergrad
 aliases:
   - C Bezaire

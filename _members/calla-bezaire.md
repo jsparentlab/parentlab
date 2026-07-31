@@ -6,4 +6,4 @@ aliases:
   - C Bezaire
 ---
 
-Calla Bezaire is n undergraduate student in Jean-Sébastien Parent's laboratory at Agriculture and Agri-Food Canada.
+Calla Bezaire is an undergraduate student in Jean-Sébastien Parent's laboratory at Agriculture and Agri-Food Canada.

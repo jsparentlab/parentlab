@@ -1,6 +1,6 @@
 ---
 name: Nathan Liang
-image: images/nliang.jpg
+image: images/team/nliang.jpg
 role: technician
 description: Research Technician
 aliases:

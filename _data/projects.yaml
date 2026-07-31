@@ -2,9 +2,8 @@
   subtitle: Or hulless if you prefer.
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: projects/oats
   description: "Oat comes in two flavours: covered and naked. We'd like to figure out how one becomes the other."
-  repo: greenelab/lab-website-template
   tags:
     - Oats
 
@@ -12,9 +11,7 @@
   subtitle: Interfering with Fusarium's existence.
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
   description: Fusarium head blight is an enormous burden on Canadian agriculture. Small RNA can be used as a biological pesticide to help defend our crops.
-  repo: greenelab/lab-website-template
   tags:
     - Wheat
 
@@ -28,7 +25,6 @@
 - title: Gene-editing in Camelina sativa.
   subtitle: True edits in false flax.
   image: images/photo.jpg
-  link: https://github.com/
   description: Camelina is a crop with a diversity of uses. Can we edit its genes to improve its various qualities.
   tags:
     - Camelina

@@ -39,11 +39,13 @@ Jean-Sébastien is also affiliated with Carleton University's [Department of Bio
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="https://carleton.ca/campus/wp-content/uploads/sites/173/2025/06/nesbitt-biology-thumb-400x300-1.jpg"
+  caption="Carleton University's Department of Biology"
 %}
 
 {% endcapture %}
+
+{% comment %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
@@ -68,3 +70,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% endcomment %}

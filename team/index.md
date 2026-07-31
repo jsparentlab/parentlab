@@ -15,11 +15,17 @@ These are the members of the lab.
 {% include list.html data="members" component="portrait" filter="role == 'technician'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'technician'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Come join our lab! We are always looking for motivated students for both undergraduate and graduate positions. 
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join the Team"
+  link="contact"
+  style="button"
+%}
 
 {% include section.html %}
 

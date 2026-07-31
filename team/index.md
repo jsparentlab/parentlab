@@ -31,13 +31,9 @@ Come join our lab! We are always looking for motivated students for both undergr
 
 ## Lab Alumni
 
-Haley Turcotte
-
-Nilofar Pattang
-
-Alice Van Wyk
-
-Michelle Deng
-
+Haley Turcotte  
+Nilofar Pattang  
+Alice Van Wyk  
+Michelle Deng  
 Allie Melin
 

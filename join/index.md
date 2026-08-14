@@ -1,5 +1,5 @@
 ---
-title: Join Us!
+title: Join
 nav:
   order: 4
   tooltip: Join Us!

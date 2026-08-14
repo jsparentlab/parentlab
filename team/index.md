@@ -23,7 +23,7 @@ Come join our lab! We are always looking for motivated students for both undergr
   include button.html
   icon="fa-solid fa-handshake-angle"
   text="Join the Team"
-  link="contact"
+  link="join"
   style="button"
 %}
 

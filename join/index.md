@@ -13,8 +13,8 @@ The Parent Lab accepts both MSc and PhD students through [Carleton University's 
 
 ### Honours Projects
 
-Our lab accepts 4th year Carleton University and University of Ottawa undergraduate students for Honours projects. Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) in the Fall or Winter semester of their 3rd year to express their interest.
+Our lab accepts 4th year Carleton University and University of Ottawa undergraduate students for Honours projects. Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) in the Fall or Winter semester of their 3rd year to express their interest. Honours students will be fully trained to be able to take on all the demands their project requires. 
 
 ### Summer Undergraduate Students
 
-The Parent Lab accepts undergraduate students from any Canadian university for full-time summer positions. This can be through the co-op program of your university or through the Government of Canada's [Federal Student Work Experience Program](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html). Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) to inquire about available positions. Students will have be able to commute to the Central Experimental Farm for the duration of their work term. 
+The Parent Lab accepts undergraduate students from any Canadian university for full-time summer positions. This can be through the co-op program of your university or through the Government of Canada's [Federal Student Work Experience Program](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html). Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) to inquire about available positions. Students will have be able to commute to Ottawa's Central Experimental Farm for the duration of their work term. 

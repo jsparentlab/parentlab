@@ -13,7 +13,7 @@ The Parent Lab accepts both MSc and PhD students through [Carleton University's 
 
 ### Honours Projects
 
-Our lab accepts 4th year Carleton University and University of Ottawa undergraduate students for Honours projects. Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) in the Fall or Winter semester of their 3rd year to express their interest. Honours students will be fully trained to be able to take on all the demands their project requires. 
+Our lab accepts 4th year Carleton University and University of Ottawa undergraduate students for Honours projects (Carleton: BIOL 4908, uOttawa: BIO4009). Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) in the Fall or Winter semester of their 3rd year to express their interest. Honours students will be fully trained to be able to take on all the demands their project requires. 
 
 ### Summer Undergraduate Students
 

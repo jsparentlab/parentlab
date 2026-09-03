@@ -47,6 +47,8 @@ Jean-Sébastien is also affiliated with Carleton University's [Department of Bio
 
 {% include cols.html col1=col1 col2=col2 %}
 
+{% include section.html %}
+
 A big thank you to our summer student Vincent Guenther for designing and drawing our lab's logo!
 
 {% comment %}

@@ -1,8 +1,5 @@
 ---
 title: Research
-nav:
-  order: 1
-  tooltip: Our research interests
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research

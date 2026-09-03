@@ -26,9 +26,9 @@ Check out our publications.
 
 {%
   include feature.html
-  image="images/camelinaflats.jpg"
-  link="research"
-  title="Our Research"
+  image="images/Weird_camelina_head.jpg"
+  link="publications"
+  title="Our papers"
   text=text
 %}
 

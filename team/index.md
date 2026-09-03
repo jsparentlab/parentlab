@@ -35,7 +35,6 @@ Haley Turcotte
 Nilofar Pattang  
 Alice Van Wyk  
 Michelle Deng  
-Allie Melin
-Vincent Guenther
-Calla Bezaire
-
+Allie Melin  
+Vincent Guenther  
+Calla Bezaire  

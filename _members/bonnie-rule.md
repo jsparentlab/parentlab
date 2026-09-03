@@ -7,4 +7,4 @@ aliases:
   - B Rule
 ---
 
-Bonnie Rule is a Master's student in Jean-Sébastien Parent's laboratory at Agriculture and Agri-Food Canada.
+Bonnie Rule is a Master's student at Carleton University in Jean-Sébastien Parent's laboratory at Agriculture and Agri-Food Canada.

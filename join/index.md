@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join Us!
 
+Join a research team exploring how plants grow, adapt, and thrive in a changing world!
+
 ### Graduate Students
 
 The Parent Lab accepts both MSc and PhD students through [Carleton University's Department of Biology](https://carleton.ca/biology/graduate/). Prospective students should [contact Jean-Sébastien](https://jsparentlab.github.io/parentlab/contact/) to inquire about possible positions. 

@@ -1,11 +1,8 @@
 ---
-title: Projects
-nav:
-  order: 2
-  tooltip: Our research projects
+title: Research
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 Here are our projects.
 

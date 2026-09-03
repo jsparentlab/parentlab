@@ -3,7 +3,7 @@
 
 # Jean-Sébastien Parent's Laboratory at the Ottawa Research and Development Centre
 
-Our group studies the reproductive development of different plants and how it affects agriculture. We have a specific interest in epigenetic control of gamete formation, fertility and seed development.
+We study the molecular mechanisms that enable crop plants to develop, adapt, and perform under diverse environmental conditions. Our research explores how genetic and epigenetic regulation, particularly through small RNA molecules, influences plant development and can be harnessed to combat disease. Through an interdisciplinary approach that integrates microscopy, transcriptomics, and genome editing, we generate new insights with the potential to enhance agricultural productivity, resilience, and food security in Canada.
 
 {% include section.html %}
 
@@ -26,9 +26,9 @@ Check out our publications.
 
 {%
   include feature.html
-  image="images/camelinaflats.jpg"
-  link="research"
-  title="Our Research"
+  image="images/Weird_camelina_head.jpg"
+  link="publications"
+  title="Our papers"
   text=text
 %}
 

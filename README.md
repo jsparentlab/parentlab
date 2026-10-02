@@ -3,7 +3,9 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # jsparentlab's Website
+  # Jean-Sébastien Parent's Laboratory Website
+
+  Based at Agriculture and Agri-Food Canada's Ottawa and Research Development Centre
 
   Visit **[jsparentlab.github.io/parentlab](https://jsparentlab.github.io/parentlab)** 🚀
 

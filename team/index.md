@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-These are the members of the lab.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
